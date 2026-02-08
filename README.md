@@ -3,7 +3,7 @@
 A simple, responsive HTML portfolio showcasing my professional experience, skills, and projects.
 
 ## Live Version
-[Add your live site link here]
+
 
 ## About
 A clean portfolio built with **vanilla HTML, CSS, and JavaScript**. No frameworks or build tools required—just open `index.html` in any browser.
