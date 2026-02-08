@@ -1,0 +1,53 @@
+{
+    "name": "Joshua Corbett",
+    "contact": {
+        "phone": "+353 89 222 0582",
+        "email": "Joshua.c.corbett@icloud.com",
+        "linkedin": "linkedin.com/in/joshua-charles-corbett",
+        "location": "Laois, Ireland"
+    },
+    "education": [
+        {
+            "institution": "St. Mary’s CBS Portlaoise, Ireland",
+            "qualification": "Leaving Certificate",
+            "year": "June 2026",
+            "details": "Conditional Offer: MEng Materials Science and Engineering, Imperial College London."
+        },
+        {
+            "institution": "Centre for Talented Youth (Dublin City University)",
+            "qualification": "Certificate in Cognitive Neuroscience",
+            "year": "2021",
+            "details": "Selected for enrichment programme (95th percentile academic ability)."
+        }
+    ],
+    "experience": [
+        {
+            "role": "Selected Participant",
+            "company": "Patch Summer Accelerator",
+            "location": "Dublin, Ireland",
+            "year": "2025",
+            "details": "Selected from top 9% of national applicants for a seven-week programme where I built Puzz."
+        },
+        {
+            "role": "Work Placement (Transition Year)",
+            "company": "Department of Enterprise, Trade and Employment",
+            "location": "Dublin, Ireland",
+            "year": "2024",
+            "details": "Observed civil service operations in economic development and employment policy."
+        },
+        {
+            "role": "Work Placement (CFO Shadowing)",
+            "company": "Progressive Produce",
+            "location": "Los Angeles, USA",
+            "year": "2024",
+            "details": "Exposure to financial operations and budgeting in a large-scale enterprise."
+        }
+    ],
+    "achievements": [
+        "Top 20 National Finalist, Irish European Olympiad of Experimental Science (Physics).",
+        "Student of the Year, St. Mary’s CBS (two consecutive years).",
+        "Football Captain, Student Council Chairman, and Debate Captain.",
+        "Founded the school filmmaking club.",
+        "Short film 'Mirror' premiered at Generation Fleadh (2024) and Fresh Film (2025)."
+    ]
+}

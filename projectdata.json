@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Nanoinformatics for Brain Delivery",
+        "description": "Computational framework to optimise nanoparticle formulations for glioblastoma drug delivery.",
+        "html_url": "",
+        "homepage": "",
+        "language": "Python",
+        "techStack": "Computational Modelling, Nanoinformatics, Data Analysis",
+        "bulletPoints": [
+            "Built a computational nanoinformatics framework to optimise nanoparticle formulations over two years",
+            "Predicted paclitaxel delivery efficiencies up to 73% higher than reported literature benchmarks",
+            "Awards: Stripe Young Scientist 2026 Runner-Up, Smurfit Westrock Award, SciFest Maths in Science Award"
+        ]
+    },
+    {
+        "name": "Puzz",
+        "description": "A web app for personalised group gaming.",
+        "html_url": "",
+        "homepage": "",
+        "language": "JavaScript",
+        "techStack": "Web Development, Full Stack",
+        "bulletPoints": [
+            "Built during Patch Summer Accelerator 2025",
+            "Reached 1,500 unique users within six weeks of development",
+            "Focus on personalised group gaming experiences"
+        ]
+    },
+    {
+        "name": "Automated Satellite Tracking System",
+        "description": "Motorised tracking platform for amateur satellite observation and telemetry reception.",
+        "html_url": "",
+        "homepage": "",
+        "language": "C++",
+        "techStack": "Arduino, L298N Motor Driver, DC Motors, Hardware Control",
+        "bulletPoints": [
+            "Designed and built a motorised tracking platform for satellite observation",
+            "Implemented azimuth–elevation control using worm-gear DC motors",
+            "Developed microcontroller-based position control on a tripod-mounted platform"
+        ]
+    },
+    {
+        "name": "Wireless GPS Telemetry System",
+        "description": "Two-node GPS telemetry system for real-time location tracking.",
+        "html_url": "",
+        "homepage": "",
+        "language": "C++",
+        "techStack": "Arduino, u-blox NEO-6M, HC-12 Wireless Module, TFT Display",
+        "bulletPoints": [
+            "Built a two-node GPS telemetry system using Arduino",
+            "Implemented bidirectional wireless communication via HC-12 serial modules",
+            "Enabled handheld ground unit to visualize live coordinates and position data"
+        ]
+    },
+    {
+        "name": "Environmental Monitoring Station",
+        "description": "Weather station collecting real-time environmental sensor data with web dashboard.",
+        "html_url": "",
+        "homepage": "",
+        "language": "C++",
+        "techStack": "ESP32, Arduino, REST API, Web Dashboard",
+        "bulletPoints": [
+            "Developed an Arduino/ESP32-based weather station",
+            "Created a custom backend API and web dashboard for live monitoring",
+            "Enabled historical analysis of environmental data"
+        ]
+    },
+    {
+        "name": "Basketball Bounce Modelling",
+        "description": "Mathematical modelling and simulation of a basketball's bounce height as a function of internal air pressure.",
+        "html_url": "https://github.com/JoshCCorby/Leaving-Cert-Applied-Maths-",
+        "homepage": "https://github.com/JoshCCorby/Leaving-Cert-Applied-Maths-",
+        "language": "Python",
+        "techStack": "Python, Physics Simulation, Numerical Analysis",
+        "bulletPoints": [
+            "Developed a mathematical model to predict bounce height based on air pressure",
+            "Iterated from simple energy models to complex simulations involving aerodynamic drag",
+            "Achieved high accuracy with the 'True COR' model using the Shooting Method"
+        ]
+    },
+    {
+        "name": "iOS Karaoke Recorder",
+        "description": "A minimal, correct reference implementation for simultaneous audio playback and recording on iOS.",
+        "html_url": "https://github.com/JoshCCorby/ios-karaoke-recorder",
+        "homepage": "https://github.com/JoshCCorby/ios-karaoke-recorder",
+        "language": "Swift",
+        "techStack": "Swift, SwiftUI, AVFoundation",
+        "bulletPoints": [
+            "Simultaneous backing track playback and microphone recording using a single AVAudioEngine",
+            "Robust interruption handling for phone calls, Siri, and route changes",
+            "Real-time PCM buffer capture and local file storage"
+        ]
+    },
+    {
+        "name": "Personal Website",
+        "description": "My professional portfolio website.",
+        "html_url": "https://github.com/JoshCCorby/Personal-Website",
+        "homepage": "https://joshccorby.github.io/Personal-Website",
+        "language": "HTML",
+        "techStack": "HTML, CSS, JavaScript, GitHub Pages",
+        "bulletPoints": [
+            "Professional resume website with clean, print-friendly design",
+            "Modern CSS styling with Times New Roman typography and bordered layout"
+        ]
+    }
+]
